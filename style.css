@@ -57,17 +57,20 @@ header > p {
 }
 
 nav {
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 nav > a {
     color: white;
     text-decoration: none;
-    transition-duration: 0.8s;
+    transition-duration: 0.7s;
     padding: 10px;
     color: white;
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 4.8px;
 }
 
 nav > a:hover {
